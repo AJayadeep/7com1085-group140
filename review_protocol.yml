@@ -1,0 +1,17 @@
+group: group 140
+
+members: []
+
+search_string: ("Cyber security " AND "organization") OR ("Cyber security" AND "industry")
+
+num_papers: 186
+
+inclusion_criteria:
+    - Included paper should be published in journal
+    - Included paper must be published after year 2020
+    - Included Paper should discuss about cybersecurity and ways to ensure ensure cyber security
+      
+exclusion_criteria:
+    - Duplicate papers will be excluded
+    - Exclude the papers which are discussing about the cybersecirty cases occured in the past
+    - Exclude the papers published before 2018    
